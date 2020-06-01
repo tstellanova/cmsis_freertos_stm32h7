@@ -21,10 +21,10 @@ LIB_OUTFILE  = libcmsis_rtos2.a
 ######################################
 # building variables
 ######################################
-# debug build?
-DEBUG = 1
-# optimization
-OPT = -Og
+## debug build?
+#DEBUG = 1
+## optimization
+#OPT = -Og
 
 
 #######################################
