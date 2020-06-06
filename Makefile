@@ -31,7 +31,7 @@ LIB_OUTFILE  = libcmsis_rtos2.a
 # paths
 #######################################
 # Build path
-BUILD_DIR = build
+#BUILD_DIR = build
 
 ######################################
 # source
